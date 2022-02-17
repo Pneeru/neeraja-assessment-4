@@ -1,0 +1,15 @@
+
+<!doctype html>
+<html> 
+ <head> 
+  <style>
+     body
+{
+  background-colour: red;
+}  
+   </style>  
+ </head> 
+ <body> 
+  <h1> Hello </h1>    
+ </body>
+</html>
