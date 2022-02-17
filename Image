@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang ="en">
+ <head>
+   <meta  charset ="UTF-8">
+     <meta http-equiv ="X-UA-compatible"content="IE-edge">
+       <meta name ="view port"contect ="width=device-width, initial-scale=1.0">
+         <title>image in  html5</title>
+         </head>
+         <body>
+           <p>
+             lorornomus 100
+</p>
+<Image width="100px" src="(https://www.google.com/search?q=beautiful+real+nature+images&tbm=isch&client=ms-android-oppo-rvo2&sa=X&ved=2ahUKEwjDoJCDxYb2AhV1ILcAHdfqAIsQtI8BKAB6BAgBEDw&biw=424&bih=860&dpr=1.7#imgrc=dK__cAg3mqgYQM">
+</body>
+</html>
